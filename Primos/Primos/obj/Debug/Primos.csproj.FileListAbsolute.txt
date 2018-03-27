@@ -1,0 +1,10 @@
+C:\Users\tona_\source\repos\Primos\Primos\obj\Debug\Primos.csprojResolveAssemblyReference.cache
+C:\Users\tona_\source\repos\Primos\Primos\obj\Debug\Primos.Form1.resources
+C:\Users\tona_\source\repos\Primos\Primos\obj\Debug\Primos.Properties.Resources.resources
+C:\Users\tona_\source\repos\Primos\Primos\obj\Debug\Primos.csproj.GenerateResource.Cache
+C:\Users\tona_\source\repos\Primos\Primos\obj\Debug\Primos.csproj.CoreCompileInputs.cache
+C:\Users\tona_\source\repos\Primos\Primos\bin\Debug\Primos.exe.config
+C:\Users\tona_\source\repos\Primos\Primos\bin\Debug\Primos.exe
+C:\Users\tona_\source\repos\Primos\Primos\bin\Debug\Primos.pdb
+C:\Users\tona_\source\repos\Primos\Primos\obj\Debug\Primos.exe
+C:\Users\tona_\source\repos\Primos\Primos\obj\Debug\Primos.pdb
